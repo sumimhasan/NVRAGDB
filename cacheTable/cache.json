@@ -1,0 +1,11 @@
+[
+  {
+    "DataID": "example1",
+    "Data": "Sample data content",
+    "Links": ["example2"],
+    "Hs": ["human", "man", "teacher"],
+    "Ts": ["sample", "test"],
+    "CachesTable": true,
+    "Values": 10
+  }
+]

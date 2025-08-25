@@ -1,0 +1,11 @@
+{
+  "name": "nvragdb",
+  "version": "1.0.0",
+  "description": "**NVRAGDB** is a lightweight **non-vectorized RAG database** built with **MongoDB + Express.js**.   It stores hierarchical, relational data and supports **cache-first retrieval** for fast access.",
+  "main": "serverRa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumim hasan",
+  "license": "ISC"
+}
